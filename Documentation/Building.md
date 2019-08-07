@@ -72,6 +72,9 @@ $ mkdir build && cd build
 $ cmake .. # Default to Unix Makefiles
 $ make
 $ make verify # Optional
+$ Install as root via
+```
+$ make install
 ```
 
 ## CMake Variables
